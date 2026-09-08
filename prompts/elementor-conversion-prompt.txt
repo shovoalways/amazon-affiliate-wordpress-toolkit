@@ -1,0 +1,21 @@
+Create a new Menu for pages created for this design. Make sure to also set the homepage.
+
+I want you to take this design and convert it for the Elementor page builder for WordPress.
+
+Make sure to use the native Elementor elements and not HTML widgets. Use Containers and not Inner Sections. I have disabled the Atomic Editor, so do not use the Atomic elements.
+
+I have installed the Novamira plugin to help you understand how to use Elementor elements better.
+
+Make sure to save the Header and Footer templates in the library so I can customize them later.
+
+Next, use UAE to design and create the Header and Footer. This plugin allows you to build a custom Header and Footer with Elementor.
+
+Do not use Elementor Pro widgets for the Header and Footer. Use the elements provided by UAE.
+
+Make sure to save the Header and Footer templates in the UAE library so I can customize them later.
+
+Use Contact Form as the contact form for the Contact page.
+
+Can you now convert this website and push it to my domain?
+
+[website link]
