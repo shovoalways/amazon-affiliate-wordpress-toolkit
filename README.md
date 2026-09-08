@@ -356,3 +356,14 @@ The Amazon affiliate program has its own operating requirements. Make sure your 
 ## License
 
 MIT. See `LICENSE`.
+
+
+## 🧑‍💻 Contributors
+- [@Ali Hossain](https://github.com/shovoalways/)
+
+
+## 🥰 Follow me
+- [@Github](https://github.com/shovoalways/) 
+- [@Facebook](https://facebook.com/shovoalways/) 
+- [@Twitter](https://twitter.com/shovoalways/) 
+- [@Instagram](https://instagram.com/shovoalways/) 
